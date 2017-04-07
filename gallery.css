@@ -1,0 +1,2164 @@
+
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2250px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:22%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:65%;
+    right:35%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:88%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:88%;
+      position:absolute;
+      right:22%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:164%;
+      position:absolute;
+      left:16%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:164%;
+      position:absolute;
+      right:22%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:141%;
+    right:35%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+
+
+@media only screen and (max-width:3200px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2250px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  ;
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:9%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:89%;
+    right:29%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:121%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:121%;
+      position:absolute;
+      right:9%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:230%;
+      left:-0%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:230%;
+      position:absolute;
+      right:9%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:197%;
+    right:29%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+@media only screen and (max-width:2400px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li {
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2500px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  ;
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:24%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:68%;
+    right:36.5%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:92%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:92%;
+      position:absolute;
+      right:24%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:170%;
+      left:16.5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:170%;
+      position:absolute;
+      right:21.5%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:147%;
+    right:36.5%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+@media only screen and (max-width:1920px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li {
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2700px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  ;
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:21.5%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:68%;
+    right:35%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:92%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:92%;
+      position:absolute;
+      right:21.5%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:170%;
+      left:16.5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:170%;
+      position:absolute;
+      right:21.5%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:147%;
+    right:35%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+@media only screen and (max-width:1700px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li {
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2700px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  ;
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:18%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:68%;
+    right:33.5%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:92%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:92%;
+      position:absolute;
+      right:18%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:170%;
+      left:12%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:170%;
+      position:absolute;
+      right:18%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:147%;
+    right:33.5%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1366px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2750px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  ;
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:9%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:89%;
+    right:29%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:121%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      
+      top:121%;
+      position:absolute;
+      right:9%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:230%;
+      left:-0%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:230%;
+      position:absolute;
+      right:9%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:197%;
+    right:29%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1280px){
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1300px;
+  height:2750px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  right:4%
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:12%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:82%;
+    right:29%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:110%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:110%;
+      position:absolute;
+      right:12%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:210%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:210%;
+      position:absolute;
+      right:12%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:181%;
+    right:29%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+@media only screen and (max-width:1024px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 1024px;
+  height:2750px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%;
+            right:55%;
+            
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  right:1%;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+ 
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:12%;
+      right:6%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:80%;
+    right:22%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:108%;
+      right:55%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:108%;
+      position:absolute;
+      right:6%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:204%;
+      left:-5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:204%;
+      position:absolute;
+      right:6%;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:176%;
+    right:22%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+@media only screen and (max-width:768px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 640px;
+  height:3850px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%;
+            right:24%;
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:50%;
+      right:24%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:105%;
+    right:13.5%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:128%;
+      right:24%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:168%;
+      right:24%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:245%;
+      left:11%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:295%;
+      left:11%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:223%;
+    right:13.5%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 640px;
+  height:3350px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 5px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%;
+            left:20%;
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:50%;
+      right:24%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:105%;
+    right:13%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:128%;
+      right:24%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:168%;
+      right:24%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:245%;
+      left:11%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+    
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:295%;
+      left:11%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+
+#sparks{
+        top:223%;
+    right:13%;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+@media only screen and (max-width:640px) {
+    
+    html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+  
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+  left:0px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+    background-color: #404040;
+}
+
+body {
+  background-color:#333;
+  width: 560px;
+  height:3750px;
+  margin:auto;
+}
+
+  
+
+
+img {
+ width:400px;
+ height:auto;
+ margin:auto;
+ margin-left: 100px;
+ margin-top: 160px;
+ 
+  
+}
+
+ 
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ }
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#fire {
+            box-shadow: 0px 0px 4px #ff9933; 
+            border-radius: 10px;
+            position: absolute;
+            top:12%;
+            right:18.5%;
+}
+
+h1 { 
+  color: white;
+  font-family: 'Julius Sans One';
+  font-size: 70px;
+  text-align: center;
+  top:80px;
+  position:relative;
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  
+  
+  
+}
+
+#hammertime {
+      height:300px;
+      width:400px;
+      top:50%;
+      right:18.5%;
+      position:absolute;
+
+  box-shadow: 0px 0px 6px #ff9933;
+  border-radius: 10px;
+}
+
+#hammering{
+    top:105%;
+    right:12.5%;
+    width:480px;
+    position:absolute;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+
+#embers{
+      height:300px;
+      width:400px;
+      top:128%;
+      right:18.5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+
+}
+
+#scroll {
+      height:300px;
+      width:400px;
+      top:168%;
+      right:18.5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      
+}
+
+#anvil{
+     height:400px;
+      width:400px;
+      top:245%;
+      left:3.5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+}
+
+#pforge{
+     height:400px;
+      width:400px;
+      top:295%;
+      left:3.5%;
+      position:absolute;
+      box-shadow: 0px 0px 6px #ff9933;
+      border-radius: 10px;
+      transform: rotate(90deg)
+      
+}      
+#sparks{
+    top:223%;
+    right:12.5%;
+    position:absolute;
+    width:480px;
+    box-shadow: 0px 0px 6px #ff9933;
+    border-radius: 10px;
+}
+}

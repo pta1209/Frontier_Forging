@@ -1,0 +1,831 @@
+
+
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px;
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width:4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+ 
+ #logo{
+    display: block;
+    margin: 0 auto;
+   
+ }
+ 
+ @media only screen and (max-width:1680px) {
+   
+  
+
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
+ 
+ @media only screen and (max-width:1700px) { 
+   
+    
+
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width:4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
+ 
+ 
+@media only screen and (max-width:1366px) {
+  
+ 
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
+ 
+  @media only screen and (max-width:1280px){
+    
+    
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
+ 
+ @media only screen and (max-width:1024px) {
+   
+   
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
+ 
+ 
+
+@media only screen and (max-width:768px) {
+  
+  
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 100px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width:4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
+ 
+ @media only screen and (max-width:375px) {
+   
+   
+html { 
+  background-image:url(http://i1.wp.com/judgybitch.com/wp-content/uploads/sites/39/2014/08/anvil.jpg);
+  background-attachment: fixed;
+  background-size: cover;}
+
+h1 { text-align: center; 
+        color:  white; 
+        font-size: 50px; 
+        font-family: 'Julius Sans One', sans-serif;
+        margin: 150px;
+        text-shadow: -2px 2px 2px  black, 5px 3px 5px  black; 
+  
+}
+
+
+h2{   
+  text-align: center; 
+  color:white;
+  font-family: 'Julius Sans One';
+  text-shadow: -2px 2px 2px  black, 5px 3px 5px  black;
+  font-size: 35px
+}
+ 
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1f1f1f;
+  left:0px;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width:4000px;
+}
+
+
+li {
+  float: left;
+    
+}
+
+li{
+    border: 0px solid #000;
+  }
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-family: 'Julius Sans One';
+   }
+
+
+li a:hover {
+  background-color: #404040;
+  
+}
+
+.active{
+  background-color: #404040;
+}
+
+  
+#insta {
+   width: 70px;
+  height: 70px;
+  border: 30px;
+  bottom: 5px;
+  right: 10px;
+  position: fixed;
+ 
+}
+
+#twitter {
+    width: 37px;
+  height: 37px;
+  border: 30px;
+  bottom: 20px;
+  right: 80px;
+  position: fixed;
+  
+}
+
+#navlogo {
+    width: 150px;
+  height: 105px;
+  border: 30px;
+  bottom: 923px;
+  right: -2%;
+  position: fixed;
+  }
+ }
